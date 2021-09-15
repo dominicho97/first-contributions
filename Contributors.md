@@ -1502,6 +1502,7 @@ Chirantan
 - [Zach DeHaven](https://github.com/zachdehaven)
 - [Hunter Woodruff](https://github.com/hcw52)
 - [Trevor Merrick](https://github.com/tmerrick17)
+- [Dominic Ho](https://github.com/dominicho97)
 - [Andrew Folsom](https://github.com/andrewfolsom)
 - [shi7](https://github.com/shi7)
 - [wolfetone](https://github.com/wolfetone)
